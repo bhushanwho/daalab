@@ -8,9 +8,11 @@
 - example, pick backtracking, implement subsetsum - on paper first, then in code.
 - do at least one problem from all topics
 
-no clue on concepts? reference material:
+### references
+
 [abdul bari's playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+[branch and bound demonstration](https://medium.com/@YodgorbekKomilo/branch-and-bound-algorithm-in-java-beginner-friendly-66fbabd824fd)
 
 ## contents
 
