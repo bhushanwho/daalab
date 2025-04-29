@@ -1,6 +1,8 @@
 # daalab
 
+<p class="callout info">**NOTE**: all files are in cpp, use for algorithmic reference only.</p>
 [hope and pray lmao](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 [notion](https://plant-cast-7e9.notion.site/DAALAB-180e8458f60c8020a93dc493510fb0ec?pvs=4)
 
 ## contents
