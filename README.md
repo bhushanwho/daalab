@@ -1,4 +1,4 @@
-# daalab
+# daa lab
 
 **NOTE**: all files are in cpp, use for algorithmic reference only
 
@@ -14,7 +14,7 @@
 
 [branch and bound demonstration](https://medium.com/@YodgorbekKomilo/branch-and-bound-algorithm-in-java-beginner-friendly-66fbabd824fd)
 
-## contents
+# contents
 
  | **Category**            | **Problems**                                                                 |
 |-------------------------|--------------------------------------------------------------------------------------------|
