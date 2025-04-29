@@ -1,0 +1,43 @@
+TODO
+    - topological sort
+    - root leaf paths
+    - distance between nodes
+    - check if dag
+    
+    - karatsuba
+    - strassen
+    - sorts
+    - minmax
+
+    - job sequencing (greedy)
+
+    - 01 knapsack (dp)
+    - reliability design
+    - tsp (dp)
+
+    - 01 knapsack (backtrack)
+    - hamiltonian cycles
+
+    - job sequencing (branch and bound)
+    - 01 knapsack (branch and bound)
+    - tsp (branch and bound)
+
+
+DONE
+    - articulation points
+
+    - prims
+    - kruskals
+    - dijkstras
+
+    - bellman ford
+    - floyd warshall
+    - edit distance
+    - coin change
+    - lis
+    - lcs
+    - matrix chaining
+
+    - graph coloring
+    - n queens
+    - subset sum
