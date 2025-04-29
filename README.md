@@ -2,9 +2,15 @@
 
 **NOTE**: all files are in cpp, use for algorithmic reference only
 
-[hope and pray lmao](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+### how to do?
 
-[notion](https://plant-cast-7e9.notion.site/DAALAB-180e8458f60c8020a93dc493510fb0ec?pvs=4)
+- pick a topic, and implement at least a single problem on your own from scratch.
+- example, pick backtracking, implement subsetsum - on paper first, then in code.
+- do at least one problem from all topics
+
+no clue on concepts? reference material:
+[abdul bari's playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 
 ## contents
 
