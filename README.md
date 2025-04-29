@@ -1,7 +1,8 @@
 # daalab
 
+(don't know shit? hope and pray)[https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O]
+
 ## contents
-list of all probable programs that might be ask.
 
  | **Category**            | **Problems**                                                                 |
 |-------------------------|--------------------------------------------------------------------------------------------|
