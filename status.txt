@@ -16,7 +16,6 @@ TODO
     - tsp (dp)
 
     - 01 knapsack (backtrack)
-    - hamiltonian cycles
 
     - job sequencing (branch and bound)
     - 01 knapsack (branch and bound)
