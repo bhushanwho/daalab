@@ -9,7 +9,11 @@ void backtrack( int node, int level,
                 vector<int>& sol,
                 vector<vector<int>>& res ) {
 
-    if( level == vertices ) { res.push_back(sol); }
+    if( level == vertices ) { 
+        for( int v : adjList[sol[level-1]] ) {
+            if( v == sol[0] ) res.push_back(sol);
+        }
+    }
 
     if( node == 0 ) {
         for( int i = 1; i <= vertices; i++ ) {

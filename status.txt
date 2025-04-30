@@ -1,8 +1,5 @@
 TODO
-    - topological sort
-    - root leaf paths
     - distance between nodes
-    - check if dag
     
     - karatsuba
     - strassen
@@ -23,6 +20,9 @@ TODO
 
 
 DONE
+    - check if dag
+    - topological sort
+    - root leaf paths
     - articulation points
 
     - prims
@@ -40,3 +40,4 @@ DONE
     - graph coloring
     - n queens
     - subset sum
+    - hamiltonian
